@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://phlow.github.io/gpc/sitemap.xml
+Sitemap: http://localhost:4000/gpc/sitemap.xml

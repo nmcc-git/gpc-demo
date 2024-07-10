@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://phlow.github.io/gpc/sitemap.xml
+Sitemap: https://nmcc-git.github.io/gpc/sitemap.xml

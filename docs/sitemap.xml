@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/404.html</loc>
+	<loc>https://nmcc-git.github.io/gpc/404.html</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/about/</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/blog/archive/</loc>
+	<loc>https://nmcc-git.github.io/gpc/about/</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>https://phlow.github.io/gpc/atom.xml</loc>
+	<loc>https://nmcc-git.github.io/gpc/blog/archive/</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,114 +52,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/contact/</loc>
+	<loc>https://nmcc-git.github.io/gpc/atom.xml</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/donate/</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/feed.xml</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/humans.txt</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/blog/</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/media/</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/gpc/robots.txt</loc>
-	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -190,12 +68,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>https://phlow.github.io/gpc/search/</loc>
+	<loc>https://nmcc-git.github.io/gpc/contact/</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,9 +84,133 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/sitemap.xml</loc>
+	<loc>https://nmcc-git.github.io/gpc/donate/</loc>
 	
-		<lastmod>2024-07-09T21:27:54-05:00</lastmod>
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/feed.xml</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/humans.txt</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/blog/</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/media/</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/robots.txt</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/search/</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://nmcc-git.github.io/gpc/sitemap.xml</loc>
+	
+		<lastmod>2024-07-09T21:35:03-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -232,7 +232,7 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/general/blog-post-2/</loc>
+	<loc>https://nmcc-git.github.io/gpc/general/blog-post-2/</loc>
 	
 		<lastmod>2024-07-09T00:00:00-05:00</lastmod>
 	
@@ -247,7 +247,7 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/gpc/general/blog-post-1/</loc>
+	<loc>https://nmcc-git.github.io/gpc/general/blog-post-1/</loc>
 	
 		<lastmod>2024-07-08T00:00:00-05:00</lastmod>
 	

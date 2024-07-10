@@ -1,9 +1,8 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+title               : "Contact Us"
+meta_title          : "Contact Us"
+teaser              : "How to get in touch with GPC."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+This page will contain information on how to contact GPC as well as links to GPC's social media profiles.

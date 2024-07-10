@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://nmcc-git.github.io/gpc/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://nmcc-git.github.io/gpc-demo/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://nmcc-git.github.io/gpc/assets/js/modernizr.min.js"></script>
+	<script src="https://nmcc-git.github.io/gpc-demo/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://nmcc-git.github.io/gpc/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://nmcc-git.github.io/gpc-demo/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="»Our mission is to help Afghan girls and young women build a community, find hope, and raise their voices.">
-	<meta property="og:url" content="https://nmcc-git.github.io/gpc/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://nmcc-git.github.io/gpc-demo/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Girls on the Path of Change">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://nmcc-git.github.io/gpc/humans.txt">
+	<link type="text/plain" rel="author" href="https://nmcc-git.github.io/gpc-demo/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://nmcc-git.github.io/gpc/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://nmcc-git.github.io/gpc-demo/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://nmcc-git.github.io/gpc/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://nmcc-git.github.io/gpc-demo/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://nmcc-git.github.io/gpc/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://nmcc-git.github.io/gpc-demo/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://nmcc-git.github.io/gpc/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="https://nmcc-git.github.io/gpc-demo/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="https://nmcc-git.github.io/gpc" class="icon-tree"> Girls on the Path of Change</a></h1>
+      <h1 class="hide-for-large-up"><a href="https://nmcc-git.github.io/gpc-demo" class="icon-tree"> Girls on the Path of Change</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -124,7 +124,7 @@
 
             
             
-              <li><a  href="https://nmcc-git.github.io/gpc/">Home</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -139,7 +139,7 @@
 
             
             
-              <li><a  href="https://nmcc-git.github.io/gpc/about/">About</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/about/">About</a></li>
               <li class="divider"></li>
 
             
@@ -154,7 +154,7 @@
 
             
             
-              <li><a  href="https://nmcc-git.github.io/gpc/donate/">Donate</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/donate/">Donate</a></li>
               <li class="divider"></li>
 
             
@@ -169,7 +169,7 @@
 
             
             
-              <li><a  href="https://nmcc-git.github.io/gpc/media/">Media</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/media/">Media</a></li>
               <li class="divider"></li>
 
             
@@ -186,14 +186,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://nmcc-git.github.io/gpc/blog/">Blog</a>
+                <a  href="https://nmcc-git.github.io/gpc-demo/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://nmcc-git.github.io/gpc/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="https://nmcc-git.github.io/gpc-demo/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -271,7 +271,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://nmcc-git.github.io/gpc/search/">Search</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/search/">Search</a></li>
 
             
             
@@ -287,7 +287,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://nmcc-git.github.io/gpc/contact/">Contact</a></li>
+              <li><a  href="https://nmcc-git.github.io/gpc-demo/contact/">Contact</a></li>
 
             
             
@@ -305,8 +305,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://nmcc-git.github.io/gpc/" title="Girls on the Path of Change – Providing educational opportunities and fostering personal growth.">
-				<img src="https://nmcc-git.github.io/gpc/assets/img/logo.png" alt="Girls on the Path of Change – Providing educational opportunities and fostering personal growth.">
+			<a id="logo" href="https://nmcc-git.github.io/gpc-demo/" title="Girls on the Path of Change – Providing educational opportunities and fostering personal growth.">
+				<img src="https://nmcc-git.github.io/gpc-demo/assets/img/logo.png" alt="Girls on the Path of Change – Providing educational opportunities and fostering personal growth.">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -384,7 +384,7 @@
 
             <p class="shadow-black">
               »Our mission is to help Afghan girls and young women build a community, find hope, and raise their voices.
-              <a href="https://nmcc-git.github.io/gpc/about/">More ›</a>
+              <a href="https://nmcc-git.github.io/gpc-demo/about/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -404,17 +404,17 @@
               
                 
                   <li >
-                    <a href="https://nmcc-git.github.io/gpc"  title=""></a>
+                    <a href="https://nmcc-git.github.io/gpc-demo"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://nmcc-git.github.io/gpc/contact/"  title="Contact">Contact</a>
+                    <a href="https://nmcc-git.github.io/gpc-demo/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://nmcc-git.github.io/gpc/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://nmcc-git.github.io/gpc-demo/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -440,7 +440,7 @@
             
               
                 <li >
-                  <a href="https://nmcc-git.github.io/gpc"  title=""></a>
+                  <a href="https://nmcc-git.github.io/gpc-demo"  title=""></a>
                 </li>
             
               
@@ -496,7 +496,7 @@
 		
 
 
-<script src="https://nmcc-git.github.io/gpc/assets/js/javascript.min.js"></script>
+<script src="https://nmcc-git.github.io/gpc-demo/assets/js/javascript.min.js"></script>
 
 
 
